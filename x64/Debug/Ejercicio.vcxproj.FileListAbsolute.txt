@@ -1,0 +1,2 @@
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\x64\Debug\Ejercicio.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\x64\Debug\Ejercicio.vcxproj.SuggestedBindingRedirects.cache

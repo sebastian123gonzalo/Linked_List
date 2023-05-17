@@ -1,0 +1,47 @@
+﻿  Source.cpp
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(47,45): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(61,45): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(77,45): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(89,35): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(72,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(80,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(85,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(86,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(79): message : al compilar la función del miembro clase plantilla "void Lista<int,0>::agregaPos(T,uint)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(48): message : Vea la referencia a la creación de una instancia de la función plantilla "void Lista<int,0>::agregaPos(T,uint)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(8): message : Vea la referencia a la creación de una instancia de clase plantilla "Lista<int,0>" que se está compilando
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(112,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(109): message : al compilar la función del miembro clase plantilla "void Lista<int,0>::modificarPos(T,uint)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(63): message : Vea la referencia a la creación de una instancia de la función plantilla "void Lista<int,0>::modificarPos(T,uint)" que se está compilando
+          with
+          [
+              T=int
+          ]
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(140,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(133): message : al compilar la función del miembro clase plantilla "void Lista<int,0>::eliminaPos(uint)"
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(78): message : Vea la referencia a la creación de una instancia de la función plantilla "void Lista<int,0>::eliminaPos(uint)" que se está compilando
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(176,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\ListaEnlazada.h(173): message : al compilar la función del miembro clase plantilla "T Lista<T,0>::obtenerPos(uint)"
+          with
+          [
+              T=int
+          ]
+C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\Ejercicio\Source.cpp(90): message : Vea la referencia a la creación de una instancia de la función plantilla "T Lista<T,0>::obtenerPos(uint)" que se está compilando
+          with
+          [
+              T=int
+          ]
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio.vcxproj -> C:\Users\pc\Desktop\Algoritmos y estructuras de datos\Semana3\Ejercicio\x64\Debug\Ejercicio.exe
